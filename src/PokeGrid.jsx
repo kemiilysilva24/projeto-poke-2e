@@ -5,7 +5,7 @@ import './PokeGrid.css'
 const PokeFlex= () => {
 
     return (
-        <div>
+        <div className='PokeGrid'>
             <img src= {poke}/>
             <img src= {eevee}/>
             <img src= {poke}/>
